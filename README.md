@@ -1,4 +1,4 @@
-# DISCORSCRAP
+# DISCRAP
 ----
  - Scrap a message from discord channels and send it to your telegram channel/group_chats
 
@@ -15,5 +15,3 @@
 ## Run
 `python3 Main.py`
   
-
-
