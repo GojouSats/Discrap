@@ -1,2 +1,2 @@
-pyrogram
-git+https://github.com/dolfies/discord.py-self@renamed#egg=selfcord.py
+pyrogram==2.0.30
+git+https://github.com/dolfies/discord.py-self@renamed#egg=selfcord.py==2.0.0a2
