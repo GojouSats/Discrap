@@ -1,6 +1,6 @@
 async def embed(message):
     """
-    EMBED FORMAR:
+    EMBED FORMATTER:
         - format an embed message
         - telegram can only embed 1 image
         - lazy to make photo sender :)
