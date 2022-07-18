@@ -24,8 +24,8 @@ async def embed(message):
 async def content(message):
     """
     CONTENT FORMAT:
-        - if message doenst have image or no
-        - only fetch 1 image for now, because telegram does not auto folder image link
+        - if message does have a file or image
+        - only fetch 1 image/file for now, because telegram does not auto folder image link
     """
     if message.attachments:
         format_message = f"{message.content} [ ]({message.attachments[0]})"
