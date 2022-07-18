@@ -5,7 +5,7 @@ async def embed(message):
         - telegram can only embed 1 image
         - lazy to make photo sender :)
     """
-
+    message = message.embeds[0]
     if message.title:
         title = message.title or ""
 
