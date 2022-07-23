@@ -1,3 +1,4 @@
+#LAZY TO MAKE CLASSES
 async def embed(message):
     """
     EMBED FORMAT:
